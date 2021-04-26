@@ -25,6 +25,8 @@ body > section:nth-child(7) > p {
 
 .myDiv {
     border: 5px outset red;
+    border-style:double;
+    border-width: thick;
     background-color: lightblue;    
     text-align: center;
   }
