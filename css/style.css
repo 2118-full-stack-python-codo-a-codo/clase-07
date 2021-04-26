@@ -1,0 +1,53 @@
+/* Esto es un comentario */
+
+/* selector de tipo*/
+p {
+    font-size: x-large;
+    color: black;
+    margin: 5em 0 0 auto;
+}
+
+i {
+    color: red;
+}
+
+/* Selector de class*/
+.pDistinto {
+    font-size: xx-large;
+    color: black;
+    background-color: blue;
+}
+
+.myDiv {
+    border: 5px outset red;
+    background-color: lightblue;    
+    text-align: center;
+  }
+
+
+/* Selector por ID*/
+#link_externo{
+    font-size: smaller;
+    color: darkblue;
+}
+
+footer {
+    text-align: left;
+}
+
+/* Selector element/tag*/
+div {
+    /*font-family: cursive;*/
+    font-family: 'Roboto', 'sans-serif';
+    /*font-family: 'Gill Sans', 'Gill Sans MT', 'Calibri', 'Trebuchet MS', 'sans-serif';*/
+}
+
+/* El tamaño del font es relativo al viewport width
+*/
+h1 {
+    font-size: 10vw; /* 40px/16=2.5em */
+  }
+  
+  h2 {
+    font-size: 1.875em; /* 30px/16=1.875em */
+  }
