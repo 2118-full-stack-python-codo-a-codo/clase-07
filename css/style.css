@@ -12,6 +12,10 @@ i {
     color: red;
 }
 
+body > section:nth-child(7) > p {
+    background-color: chartreuse;
+}
+
 /* Selector de class*/
 .pDistinto {
     font-size: xx-large;
