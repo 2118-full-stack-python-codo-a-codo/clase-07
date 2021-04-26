@@ -5,6 +5,7 @@ p {
     font-size: x-large;
     color: black;
     margin: 5em 0 0 auto;
+    background-color: brown;/*!important;   Podria ser important */
 }
 
 i {
